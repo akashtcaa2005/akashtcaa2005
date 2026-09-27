@@ -1,60 +1,19 @@
 # ⚡ AKASH T.
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=AKASH%20T.&fontSize=60&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=AI%20%7C%20ML%20%7C%20GenAI%20%7C%20Cybersecurity&descAlignY=58&descSize=20"/>
+  <img src="./assets/profile-card.svg" width="850" alt="Akash T. — AI & ML Engineer / Security Researcher"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/akashtcaa2005">
-    <img src="https://komarev.com/ghpvc/?username=akashtcaa2005&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge"/>
-  </a>
-  <a href="https://github.com/akashtcaa2005?tab=followers">
-    <img src="https://img.shields.io/github/followers/akashtcaa2005?style=for-the-badge&logo=github&label=FOLLOWERS"/>
-  </a>
-  <img src="https://img.shields.io/badge/Focus-AI%20Engineering-blue?style=for-the-badge"/>
+  <a href="mailto:akashtcaa.2005@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/akash-t-845439314/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/akashtcaa2005"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/akashtcaa2005"><img src="https://komarev.com/ghpvc/?username=akashtcaa2005&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge"/></a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=700&color=00D9FF&center=true&vCenter=true&width=900&lines=AI+%26+Machine+Learning+Engineer;Generative+AI+%7C+LLMs+%7C+RAG+%7C+AI+Agents;Data+Science+%7C+Deep+Learning+%7C+Computer+Vision;Cybersecurity+%7C+Linux+%7C+Cloud+%7C+MLOps;Turning+Ideas+Into+Production-Ready+AI+Systems"/>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,react,ts,flask,nodejs,postgres,mongodb,aws,gcp,docker,linux,git&perline=14"/>
 </p>
-
----
-
-## 🧑‍💻 `$ whoami`
-
-<table>
-<tr>
-<td width="55%" valign="top">
-
-```text
-┌──────────────────────────────────────────────┐
-│                    AKASH T.                   │
-├──────────────────────────────────────────────┤
-│ Role       : AI & Machine Learning Engineer  │
-│ Education  : B.Tech AI & Data Science        │
-│ Focus      : AI • ML • GenAI • Security      │
-│ Languages  : Python • SQL • Java • C/C++     │
-│ Backend    : Flask • Express • REST APIs     │
-│ Frontend   : React • TypeScript • Tailwind   │
-│ Databases  : PostgreSQL • MySQL • MongoDB    │
-│ Cloud      : AWS • GCP                       │
-│ Mindset    : Learn → Build → Deploy → Improve│
-└──────────────────────────────────────────────┘
-```
-
-I'm a **B.Tech AI & Data Science student** building toward a production-oriented **AI/ML Engineer** career — with Generative AI, full-stack application development, and applied cybersecurity as the three pillars I work across.
-
-I like taking an idea the whole way:
-**Concept → Data → Model → API → Application → Deployment → Monitoring** — not stopping at a notebook.
-
-</td>
-<td width="45%" align="center" valign="top">
-
-<img src="./assets/profile-animated.svg" width="280" alt="Akash T."/>
-
-</td>
-</tr>
-</table>
 
 ---
 
