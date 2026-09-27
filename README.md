@@ -34,7 +34,7 @@
 <tr>
 <td width="45%" valign="top">
 
-<img src="assets/profile-ascii.png" alt="akash ascii render" width="100%"/>
+<img src="assets/profile-ascii.svg" alt="akash ascii render" width="100%"/>
 
 </td>
 <td width="55%" valign="top">
