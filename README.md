@@ -157,12 +157,465 @@ Code → Git → GitHub → Test → Docker → Cloud → Deploy → Monitor →
 ---
 
 
+## 🚀 featured builds
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧬 BioSence
+
+**AI-powered health monitoring platform**
+
+```text
+React + TypeScript
+        ↓
+Supabase + PostgreSQL
+        ↓
+Express Services
+        ↓
+AI / ML Layer
+        ↓
+Future: Wearables → Signals → Models → RAG
+```
+
+Google OAuth · Phone OTP · SOS workflow · Email alerts
+
+**Future AI direction**
+
+```text
+Wearable Signals
+      ↓
+Signal Processing
+      ↓
+Personal Baselines
+      ↓
+Anomaly Detection
+      ↓
+Predictive Patterns
+      ↓
+RAG + LLM Explanation
+```
+
+</td>
+
+<td width="50%" valign="top">
+
+### 📈 AI Data Science Platform
+
+**Automated data → intelligence pipeline**
+
+```text
+Dataset
+   ↓
+Validation
+   ↓
+Auto EDA
+   ↓
+Visualization
+   ↓
+Feature Engineering
+   ↓
+Model Training
+   ↓
+Evaluation
+   ↓
+AI Insights
+   ↓
+Prediction
+```
+
+`Python` `Pandas` `NumPy` `Scikit-learn` `Streamlit`
+
+**Future direction:** automated ML experimentation + AI-assisted analysis + intelligent model evaluation.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧪 project evolution
+
+| Project                    | Domain           | Core Technology              | Engineering Direction          |
+| -------------------------- | ---------------- | ---------------------------- | ------------------------------ |
+| Iris & Wine Classification | Machine Learning | Scikit-learn · Random Forest | ML fundamentals                |
+| House Price Prediction     | Regression       | Python · ML                  | Predictive modeling            |
+| Customer Behavior Analysis | Data Science     | Pandas · ML                  | Data-driven insights           |
+| Cats vs Dogs               | Computer Vision  | Vision Transformers          | Deep learning                  |
+| PDF/TXT RAG Pipeline       | Generative AI    | LLMs · Embeddings            | Retrieval-Augmented Generation |
+| AI API Services            | AI Engineering   | Flask · Python               | Model serving                  |
+| BioSence                   | AI + Full Stack  | React · Supabase             | Intelligent applications       |
+| AI Data Science Platform   | AI Engineering   | Python · Streamlit           | Automated ML workflows         |
+
+---
+
+# 🧠 from machine learning → generative intelligence
+
+```text
+                     AI ENGINEERING
+                           │
+          ┌────────────────┼────────────────┐
+          ▼                ▼                ▼
+      MACHINE           DEEP             DATA
+     LEARNING         LEARNING         SCIENCE
+          │                │                │
+          └────────────────┼────────────────┘
+                           ▼
+                    TRANSFORMERS
+                           │
+                           ▼
+                         LLMs
+                           │
+             ┌─────────────┼─────────────┐
+             ▼             ▼             ▼
+           RAG           AGENTS       MULTIMODAL
+             │             │             │
+             └─────────────┼─────────────┘
+                           ▼
+                  AI SYSTEM ENGINEERING
+                           │
+             ┌─────────────┼─────────────┐
+             ▼             ▼             ▼
+         EVALUATION      MEMORY         TOOLS
+             │             │             │
+             └─────────────┼─────────────┘
+                           ▼
+                   AGENTIC SYSTEMS
+                           │
+                           ▼
+                 AUTONOMOUS WORKFLOWS
+                           │
+                           ▼
+                  ADVANCED AI SYSTEMS
+                           │
+                           ▼
+                 AGI RESEARCH DIRECTION
+```
+
+---
+
+# 📚 2026 → 2027 learning roadmap
+
+## 2026 — GENAI ENGINEERING FOUNDATION
+
+```text
+PYTHON
+ │
+ ├── Advanced Python
+ ├── OOP
+ ├── Async Programming
+ ├── APIs
+ └── Linux
+       │
+       ▼
+MACHINE LEARNING
+ │
+ ├── Statistics
+ ├── Classical ML
+ ├── Feature Engineering
+ ├── Model Evaluation
+ └── Experimentation
+       │
+       ▼
+DEEP LEARNING
+ │
+ ├── Neural Networks
+ ├── PyTorch
+ ├── CNNs
+ ├── Sequence Models
+ └── Transformers
+       │
+       ▼
+GENERATIVE AI
+ │
+ ├── LLM Architecture
+ ├── Tokenization
+ ├── Attention
+ ├── Prompt Engineering
+ ├── LLM APIs
+ └── Open / Closed Models
+```
+
+---
+
+## 2027 — ADVANCED GENAI ENGINEERING
+
+```text
+                    2027
+                      │
+       ┌──────────────┼──────────────┐
+       ▼              ▼              ▼
+      RAG           AGENTS       MULTIMODAL
+       │              │              │
+       ├─ Embeddings  ├─ Tools      ├─ Vision
+       ├─ Vector DB   ├─ Planning   ├─ Audio
+       ├─ Retrieval   ├─ Memory     ├─ Video
+       ├─ Reranking   ├─ MCP        └─ Vision-Language
+       └─ Evaluation  └─ Workflows
+                      │
+                      ▼
+              AI SYSTEM DESIGN
+                      │
+       ┌──────────────┼──────────────┐
+       ▼              ▼              ▼
+   EVALUATION       SAFETY        OBSERVABILITY
+       │              │              │
+       ├─ Quality     ├─ Guardrails  ├─ Tracing
+       ├─ Accuracy    ├─ Security    ├─ Monitoring
+       ├─ Halluc.     ├─ Privacy     └─ Cost
+       └─ Benchmarks  └─ Alignment
+                      │
+                      ▼
+              PRODUCTION GENAI
+                      │
+       ┌──────────────┼──────────────┐
+       ▼              ▼              ▼
+     FastAPI        Docker          Cloud
+       │              │              │
+       ▼              ▼              ▼
+      APIs          CI/CD          MLOps
+                      │
+                      ▼
+               AI INFRASTRUCTURE
+```
+
+---
+
+# 🔬 beyond 2027 — AGI-oriented learning
+
+> **Long-term direction, not a claim of current AGI expertise.**
+
+```text
+                         ADVANCED AI
+                              │
+              ┌───────────────┼────────────────┐
+              ▼               ▼                ▼
+           REASONING       MEMORY          LEARNING
+              │               │                │
+              ▼               ▼                ▼
+        Planning Systems   Long-Term       Continual
+        Search            Memory           Learning
+        Verification      Retrieval        Adaptation
+              │               │                │
+              └───────────────┼────────────────┘
+                              ▼
+                     AGENTIC INTELLIGENCE
+                              │
+              ┌───────────────┼────────────────┐
+              ▼               ▼                ▼
+          TOOL USE         PLANNING        REFLECTION
+              │               │                │
+              ▼               ▼                ▼
+          Environment     Multi-Step       Self-
+          Interaction     Reasoning        Evaluation
+                              │
+                              ▼
+                    MULTIMODAL INTELLIGENCE
+                              │
+          ┌───────────────────┼───────────────────┐
+          ▼                   ▼                   ▼
+        TEXT                 VISION              AUDIO
+          │                   │                   │
+          └───────────────────┼───────────────────┘
+                              ▼
+                     WORLD MODELS
+                              │
+                              ▼
+                    SIMULATION + LEARNING
+                              │
+                              ▼
+                    ADVANCED AI RESEARCH
+                              │
+                              ▼
+                     AGI RESEARCH PATH
+```
+
+---
+
+# 🧠 advanced topics i want to explore
+
+<div align="center">
+
+| 🧠 Intelligence |     🤖 Agents     |    🌐 Multimodal    |       🔬 Research       |
+| :-------------: | :---------------: | :-----------------: | :---------------------: |
+|    Reasoning    |      Tool Use     |        Vision       |       Transformers      |
+|     Planning    |       Memory      |        Audio        | Representation Learning |
+|      Search     |      Planning     |        Video        |    Continual Learning   |
+|   World Models  |        MCP        |         VLMs        |  Reinforcement Learning |
+| Self-Evaluation |    Multi-Agent    |    Multimodal RAG   |        Alignment        |
+|     Learning    | Agentic Workflows | Cross-modal Systems |        AI Safety        |
+
+</div>
+
+---
+
+# ⚙️ production AI engineering
+
+```text
+                    GENAI APPLICATION
+                           │
+                           ▼
+                      API LAYER
+                           │
+                    ┌──────┴──────┐
+                    ▼             ▼
+                  FastAPI       Auth
+                    │
+                    ▼
+                 AI ORCHESTRATION
+                    │
+       ┌────────────┼────────────┐
+       ▼            ▼            ▼
+      LLM          RAG         AGENT
+       │            │            │
+       └────────────┼────────────┘
+                    ▼
+                EVALUATION
+                    │
+                    ▼
+               OBSERVABILITY
+                    │
+                    ▼
+                  DOCKER
+                    │
+                    ▼
+                 CI / CD
+                    │
+                    ▼
+             CLOUD INFRASTRUCTURE
+                    │
+                    ▼
+              PRODUCTION AI
+```
+
+---
+
+# 🔥 current focus
+
+<div align="center">
+
+|  🤖 GENAI  | 🧠 LLM ENGINEERING |     🔎 RAG     |     🧩 AGENTS    | ⚙️ PRODUCTION |
+| :--------: | :----------------: | :------------: | :--------------: | :-----------: |
+|    LLMs    |    Transformers    |   Embeddings   |   Tool Calling   |    FastAPI    |
+|  Prompting |     Fine-tuning    |    Vector DB   |        MCP       |     Docker    |
+|  LLM APIs  |     Evaluation     |    Retrieval   |      Memory      |     Cloud     |
+|    VLMs    |     Guardrails     |    Reranking   |     Workflows    |     MLOps     |
+| Multimodal |    Observability   | RAG Evaluation | Agent Evaluation |    AI Infra   |
+
+</div>
+
+---
+
+# 🐍 building in public
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake"/>
+
+<br><br>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=akashtcaa2005&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&bg_color=0a0e14&title_color=00d9ff&icon_color=00ff9d&text_color=c9d1d9"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashtcaa2005&layout=compact&langs_count=10&hide_border=true&bg_color=0a0e14&title_color=00d9ff&text_color=c9d1d9"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=akashtcaa2005&hide_border=true&background=0a0e14&ring=00d9ff&fire=00ff9d&currStreakLabel=00d9ff"/>
+
+</div>
+
+---
+
+# 🎯 long-term vision
+
+```text
+2026
+ │
+ └── BUILD THE FOUNDATION
+       Python · ML · DL · Transformers
+       LLMs · RAG · Agents
+             │
+             ▼
+2027
+ │
+ └── BECOME A PRODUCTION GENAI ENGINEER
+       LLM Engineering
+       Agentic Systems
+       Multimodal AI
+       Evaluation
+       MLOps
+       AI Infrastructure
+             │
+             ▼
+2028+
+ │
+ └── ADVANCED AI SYSTEMS
+       Reasoning
+       Memory
+       Planning
+       World Models
+       Continual Learning
+       Multimodal Intelligence
+             │
+             ▼
+      ┌──────────────────────────┐
+      │     AI RESEARCH PATH     │
+      └────────────┬─────────────┘
+                   │
+                   ▼
+        AGI-ORIENTED RESEARCH
+```
+
+---
+
+# 💡 engineering philosophy
+
+<div align="center">
+
+```text
+╔══════════════════════════════════════════════════════════╗
+║                                                          ║
+║              DON'T JUST USE AI.                         ║
+║              UNDERSTAND HOW IT WORKS.                   ║
+║                                                          ║
+║       BUILD → EVALUATE → BREAK → IMPROVE                ║
+║                                                          ║
+║       MODEL → SYSTEM → AGENT → INTELLIGENCE              ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
+```
+
+### `Build intelligent systems. Understand intelligence. Keep learning.`
+
+</div>
+
+---
+
+# 📫 reach me
+
+<div align="center">
+
+<a href="mailto:akashtcaa.2005@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/akash-t-845439314/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/akashtcaa2005">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
 <br>
 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,50:203A43,100:0F2027&height=140&section=footer&animation=fadeIn"/>
 
-### ⚡ `Learn. Build. Break. Fix. Secure. Deploy. Repeat.`
+### ⚡ `Learn → Build → Evaluate → Deploy → Scale → Research`
 
 </div>
