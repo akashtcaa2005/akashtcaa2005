@@ -18,16 +18,6 @@
 
 ---
 
-## `$ boot_sequence --render`
-
-<div align="center">
-  <img src="assets/terminal-boot.svg" alt="live terminal boot animation" width="880"/>
-</div>
-
-<p align="center"><sub>↑ this terminal actually types itself, line by line, forever. that's the point.</sub></p>
-
----
-
 ## 🧑‍💻 whoami
 
 <table>
@@ -66,6 +56,17 @@ Recon   → Enumerate → Exploit → Verify → Report → Payout
 </td>
 </tr>
 </table>
+
+---
+
+
+## `$ boot_sequence --render`
+
+<div align="center">
+  <img src="assets/terminal-boot.svg" alt="live terminal boot animation" width="880"/>
+</div>
+
+<p align="center"><sub>↑ this terminal actually types itself, line by line, forever. that's the point.</sub></p>
 
 ---
 
