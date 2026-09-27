@@ -202,46 +202,185 @@ Dataset → Validate → Auto-EDA → Visualize → Feature Eng
 
 ---
 
-## 🏆 achievements
-
-<div align="center">
-
-| 🥇 College Tech Day | 💰 Prize | 💻 LeetCode | 🗃️ HackerRank | 🎖️ Microsoft Learn | 🎯 Security |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| 1st Prize | ₹10,000 | 150+ solved | Advanced SQL | 25+ badges / 2 trophies | HackerOne + Bugcrowd |
-
-</div>
-
----
-
 ## 🐍 building in public
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="contribution snake"/>
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake"/>
+
 </div>
 
+<br>
+
 <div align="center">
+
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=akashtcaa2005&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&bg_color=0a0e14&title_color=00d9ff&icon_color=00ff9d&text_color=c9d1d9"/>
+
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashtcaa2005&layout=compact&langs_count=10&hide_border=true&bg_color=0a0e14&title_color=00d9ff&text_color=c9d1d9"/>
+
 </div>
 
+<br>
+
 <div align="center">
+
 <img src="https://streak-stats.demolab.com?user=akashtcaa2005&hide_border=true&background=0a0e14&ring=00d9ff&fire=00ff9d&currStreakLabel=00d9ff"/>
+
 </div>
 
 ---
 
-## 🎯 2026 → 2027 roadmap
+## 🧠 engineering journey
 
 ```text
-2026 ── Advanced Python · ML · Deep Learning · GenAI · RAG · Agents · DSA · Offensive Security
-   │
-   ▼
-2027 ── Production AI · MLOps · Cloud Architecture · System Design · AI Infrastructure
-   │
-   ▼
-AI ENGINEER × SECURITY RESEARCHER
+                    ┌──────────────────────────────┐
+                    │        AI ENGINEERING        │
+                    └──────────────┬───────────────┘
+                                   │
+              ┌────────────────────┼────────────────────┐
+              ▼                    ▼                    ▼
+         🤖 Machine Learning   🧠 Generative AI    📊 Data Science
+              │                    │                    │
+              ▼                    ▼                    ▼
+        Deep Learning          LLMs · RAG          Python · SQL
+        Transformers           AI Agents           Analytics
+              │                    │                    │
+              └────────────────────┼────────────────────┘
+                                   ▼
+                         🚀 PRODUCTION AI
+                                   │
+              ┌────────────────────┼────────────────────┐
+              ▼                    ▼                    ▼
+            MLOps                 Cloud              Security
+              │                    │                    │
+              └────────────────────┼────────────────────┘
+                                   ▼
+                       ⚡ AI × SECURITY RESEARCH
 ```
+
+---
+
+## 📈 growth timeline
+
+```text
+2023
+ │
+ └── 🎓 B.Tech — Artificial Intelligence & Data Science
+ │
+ ▼
+2024
+ │
+ ├── 🐍 Python
+ ├── 💻 Programming Fundamentals
+ ├── 🧠 Data Structures & Algorithms
+ ├── 🗃️ SQL
+ └── 📊 Data Analysis
+ │
+ ▼
+2025
+ │
+ ├── 🤖 Machine Learning
+ ├── 🧠 Deep Learning
+ ├── 👁️ Computer Vision
+ ├── ✨ Generative AI
+ ├── 🔎 RAG Systems
+ └── 💼 AI / ML Engineering
+ │
+ ▼
+2026
+ │
+ ├── 🧠 Advanced GenAI
+ ├── 🤖 AI Agents
+ ├── 🔗 Production RAG
+ ├── 🐳 Docker
+ ├── ☁️ Cloud
+ ├── ⚙️ MLOps
+ └── 🔐 Cybersecurity
+ │
+ ▼
+2027
+ │
+ ├── 🚀 Production AI
+ ├── ⚙️ AI Infrastructure
+ ├── ☁️ Cloud Architecture
+ ├── 🏗️ AI System Design
+ └── 🔐 AI Security
+```
+
+---
+
+## 🎯 2026 → 2027 mission
+
+<div align="center">
+
+### `BUILD → BREAK → LEARN → SECURE → DEPLOY`
+
+</div>
+
+```text
+2026
+ │
+ ├── Advanced Python
+ ├── Machine Learning
+ ├── Deep Learning
+ ├── Generative AI
+ ├── RAG
+ ├── AI Agents
+ ├── DSA
+ └── Cybersecurity
+        │
+        ▼
+2027
+ │
+ ├── Production AI
+ ├── MLOps
+ ├── Cloud Architecture
+ ├── AI Infrastructure
+ ├── System Design
+ └── AI Security
+        │
+        ▼
+┌───────────────────────────────────────┐
+│        AI ENGINEER × SECURITY         │
+│             RESEARCHER                │
+└───────────────────────────────────────┘
+```
+
+---
+
+## 🔥 current focus
+
+<div align="center">
+
+|       🤖 AI      |  🧠 GENAI  |       🔐 SECURITY      | ⚙️ ENGINEERING |
+| :--------------: | :--------: | :--------------------: | :------------: |
+| Machine Learning |    LLMs    |      Web Security      |     Python     |
+|   Deep Learning  |     RAG    |       Bug Hunting      |       SQL      |
+|  Computer Vision |  AI Agents |          OWASP         |     Docker     |
+|   Transformers   |  LLM APIs  |    Security Research   |      Cloud     |
+|       MLOps      | Evaluation | Responsible Disclosure |  System Design |
+
+</div>
+
+---
+
+## 💡 engineering philosophy
+
+<div align="center">
+
+```text
+╔══════════════════════════════════════════════════════╗
+║                                                      ║
+║                  DON'T JUST USE AI.                  ║
+║                                                      ║
+║            UNDERSTAND IT. BUILD IT. SECURE IT.      ║
+║                                                      ║
+║        Learn → Build → Break → Fix → Deploy         ║
+║                                                      ║
+╚══════════════════════════════════════════════════════╝
+```
+
+</div>
 
 ---
 
@@ -249,14 +388,26 @@ AI ENGINEER × SECURITY RESEARCHER
 
 <div align="center">
 
-<a href="mailto:akashtcaa.2005@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://linkedin.com/in/akash-t-845439314/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/akashtcaa2005"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="mailto:akashtcaa.2005@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/akash-t-845439314/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/akashtcaa2005">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
+
+<br>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer&animation=fadeIn"/>
-</div>
 
-<p align="center"><b>⚡ Learn. Build. Break. Fix. Deploy. Repeat.</b></p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,50:203A43,100:0F2027&height=140&section=footer&animation=fadeIn"/>
+
+### ⚡ `Learn. Build. Break. Fix. Secure. Deploy. Repeat.`
+
+</div>
