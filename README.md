@@ -1,647 +1,690 @@
-# 👋 Hey, I'm Akash T.
-
-### AI & Machine Learning Engineer | Generative AI | Data Science | Cybersecurity
+# ⚡ AKASH T.
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=AI+%26+Machine+Learning+Engineer;Generative+AI+%7C+RAG+%7C+LLMs;Data+Science+%7C+MLOps;Cybersecurity+%7C+Full-Stack+Development;Building+AI+Systems+That+Solve+Real+Problems" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=AKASH%20T.&fontSize=60&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=AI%20%7C%20ML%20%7C%20GenAI%20%7C%20Cybersecurity&descAlignY=58&descSize=20"/>
 </p>
 
 <p align="center">
   <a href="https://github.com/akashtcaa2005">
-    <img src="https://img.shields.io/github/followers/akashtcaa2005?label=Followers&style=for-the-badge" />
+    <img src="https://komarev.com/ghpvc/?username=akashtcaa2005&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge"/>
   </a>
-  <a href="https://github.com/akashtcaa2005?tab=repositories">
-    <img src="https://img.shields.io/badge/GitHub-Projects-black?style=for-the-badge&logo=github" />
+  <a href="https://github.com/akashtcaa2005?tab=followers">
+    <img src="https://img.shields.io/github/followers/akashtcaa2005?style=for-the-badge&logo=github&label=FOLLOWERS"/>
   </a>
-  <a href="mailto:akashtcaa.2005@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
-  </a>
+  <img src="https://img.shields.io/badge/Focus-AI%20Engineering-blue?style=for-the-badge"/>
 </p>
 
 ---
 
-## 🧠 About Me
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=700&color=00D9FF&center=true&vCenter=true&width=900&lines=AI+%26+Machine+Learning+Engineer;Generative+AI+%7C+LLMs+%7C+RAG+%7C+AI+Agents;Data+Science+%7C+Deep+Learning+%7C+Computer+Vision;Full-Stack+AI+Application+Developer;Cybersecurity+%7C+Linux+%7C+Cloud+%7C+MLOps;Turning+Ideas+Into+Production-Ready+AI+Systems"/>
+</p>
+
+<p align="center">
+  <b>Building intelligent systems. Learning continuously. Shipping real projects.</b>
+</p>
+
+---
+
+## 🧑‍💻 `$ whoami`
+
+```text
+┌──────────────────────────────────────────────────────────────┐
+│                         AKASH T.                             │
+├──────────────────────────────────────────────────────────────┤
+│ Role       : AI & Machine Learning Engineer                 │
+│ Education  : B.Tech Artificial Intelligence & Data Science  │
+│ Focus      : AI • ML • GenAI • RAG • Cybersecurity          │
+│ Languages  : Python • SQL • Java • C/C++ • JS/TS           │
+│ Backend    : Flask • Express • REST APIs                    │
+│ Frontend   : React • TypeScript • Tailwind                  │
+│ Databases  : PostgreSQL • MySQL • MongoDB                   │
+│ Cloud      : AWS • GCP                                     │
+│ DevOps     : Git • GitHub • Docker • Linux                 │
+│ Mindset    : Learn → Build → Deploy → Improve              │
+└──────────────────────────────────────────────────────────────┘
+```
+
+---
+
+# 🧠 About Me
 
 I'm a **B.Tech Artificial Intelligence & Data Science student** focused on becoming a production-oriented **AI/ML Engineer**.
 
-I enjoy building systems that combine:
+My interests sit at the intersection of:
 
-* 🤖 Machine Learning
-* 🧠 Generative AI
-* 🔎 Retrieval-Augmented Generation
-* 📊 Data Science
-* ⚙️ Backend Engineering
-* ☁️ Cloud & MLOps
-* 🔐 Cybersecurity
-* 🌐 Full-Stack Development
+```text
+                 ┌─────────────────┐
+                 │   AI ENGINEERING │
+                 └────────┬────────┘
+                          │
+       ┌──────────────────┼──────────────────┐
+       ▼                  ▼                  ▼
+   Machine Learning    Generative AI    Software Engineering
+       │                  │                  │
+       ▼                  ▼                  ▼
+ Deep Learning           RAG              Backend
+ Computer Vision         LLMs             APIs
+ Predictive AI            Agents           Databases
+       │                  │                  │
+       └──────────────────┼──────────────────┘
+                          ▼
+                    Production AI
+```
 
-My approach is simple:
+I enjoy taking an idea from:
 
-> **Learn → Build → Deploy → Measure → Improve**
+**Concept → Data → Model → API → Application → Deployment → Monitoring**
 
-I don't want to only train models in notebooks.
-I want to understand the complete journey from **data → model → API → application → deployment → monitoring**.
-
----
-
-# 🚀 What I'm Currently Building
-
-### 🤖 AI Engineering
-
-* Machine Learning pipelines
-* Generative AI applications
-* RAG systems
-* LLM-powered applications
-* AI agents
-* Model evaluation systems
-* AI APIs
-* Production-ready AI applications
-
-### 📊 Data Science
-
-* Exploratory Data Analysis
-* Feature engineering
-* Statistical analysis
-* Predictive modeling
-* Data visualization
-* Business intelligence
-* ML model evaluation
-
-### 🔐 Cybersecurity
-
-Exploring the intersection of:
-
-* Python & security automation
-* Network security fundamentals
-* Linux security
-* Web security
-* Vulnerability analysis
-* Secure APIs
-* Authentication & authorization
-* Security monitoring
-* AI-assisted cybersecurity
-
-### 🌐 Software Engineering
-
-Building AI applications using:
-
-* React
-* TypeScript
-* Node.js
-* Express
-* Flask
-* REST APIs
-* PostgreSQL
-* MongoDB
-* Supabase
+rather than stopping at a notebook.
 
 ---
 
-# 🛠️ Technology Stack
+# ⚡ Current Mission
 
-## 👨‍💻 Programming Languages
+```text
+████████████████████████████████████░░░░  85%
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,r,javascript,typescript,sql" />
+AI Engineering
+████████████████████████████████████░░░░
+
+Machine Learning
+██████████████████████████████████░░░░░░
+
+Generative AI
+████████████████████████████████████░░░░
+
+Data Science
+███████████████████████████████████░░░░░
+
+Cybersecurity
+██████████████████████████░░░░░░░░░░░░░
+
+Cloud / MLOps
+█████████████████████████░░░░░░░░░░░░░
+```
+
+> **Mission:** Become an engineer capable of designing, building, deploying, and maintaining real-world AI systems.
+
+---
+
+# 🛠️ Technology Universe
+
+## 🐍 Programming
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,r,javascript,typescript&perline=7"/>
+
 </p>
 
-**Primary:** Python • SQL • Java • C/C++
-**Working with:** JavaScript • TypeScript • R
+**Primary:** Python • SQL
+**Also working with:** Java • C • C++ • JavaScript • TypeScript • R
 
 ---
 
 ## 🤖 AI / Machine Learning
 
-<p>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&perline=5"/>
+
 </p>
 
-* Machine Learning
-* Supervised Learning
-* Unsupervised Learning
+### Machine Learning
+
 * Regression
 * Classification
 * Ensemble Learning
-* Feature Engineering
-* Model Evaluation
-* Hyperparameter Tuning
-* Computer Vision
-* Deep Learning
-* Transformers
-* Vision Transformers
-* Transfer Learning
-
-### ML Algorithms
-
-* Linear Regression
-* Logistic Regression
-* Decision Trees
 * Random Forest
 * SVM
 * XGBoost
-* KNN
-* Clustering
+* Feature Engineering
+* Model Evaluation
+* Hyperparameter Optimization
+* Cross Validation
+
+### Deep Learning
+
 * Neural Networks
+* CNNs
+* Transfer Learning
+* Computer Vision
+* Vision Transformers
+* Transformers
 
 ---
 
-# 🧠 Generative AI
+# 🧠 Generative AI Stack
 
-I'm building toward production-level GenAI engineering.
+```text
+                    ┌──────────────┐
+                    │     LLM      │
+                    └──────┬───────┘
+                           │
+          ┌────────────────┼────────────────┐
+          ▼                ▼                ▼
+       Prompt            RAG              Agents
+     Engineering          │                │
+          │               ▼                ▼
+          │          Embeddings        Tool Calling
+          │               │                │
+          │               ▼                ▼
+          │        Vector Search       Workflows
+          │               │                │
+          └───────────────┼────────────────┘
+                          ▼
+                  Production AI App
+```
 
-### Core Areas
+### Areas
 
-* LLMs
+* Large Language Models
 * Prompt Engineering
-* RAG
+* Retrieval-Augmented Generation
 * Embeddings
-* Vector Databases
 * Semantic Search
-* Document Processing
+* Vector Databases
+* Document Intelligence
 * LLM Evaluation
 * AI Agents
 * Tool Calling
 * Structured Outputs
-* AI APIs
-* Model Context Protocol concepts
+* Transformer Architectures
 
-### Frameworks & Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,pytorch" />
-</p>
+### Tools
 
 * Hugging Face
 * LangChain
-* RAG pipelines
 * LLM APIs
 * Transformers
-* AI Agents
-* Vector Search
-* Document Retrieval
+* RAG pipelines
+* AI Agent frameworks
 
 ---
 
 # 📊 Data Science
 
-### Python Data Stack
+<p align="center">
 
-* NumPy
-* Pandas
-* Matplotlib
-* Seaborn
-* Scikit-learn
-* Statistics
+<img src="https://skillicons.dev/icons?i=python&perline=5"/>
 
-### Data Workflow
+</p>
 
 ```text
-Raw Data
-   ↓
+NumPy
+  ↓
+Pandas
+  ↓
 Data Cleaning
-   ↓
+  ↓
 EDA
-   ↓
+  ↓
+Visualization
+  ↓
 Feature Engineering
-   ↓
-Model Development
-   ↓
+  ↓
+Statistics
+  ↓
+Machine Learning
+  ↓
 Evaluation
-   ↓
-Optimization
-   ↓
+  ↓
 Deployment
-   ↓
-Monitoring
 ```
 
----
+### Libraries
 
-# 🌐 Full-Stack Development
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,tailwind" />
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask" />
-</p>
-
-### Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" />
-</p>
+`NumPy` • `Pandas` • `Matplotlib` • `Seaborn` • `Scikit-learn`
 
 ---
 
-# ☁️ Cloud & DevOps
+# 🌐 Full-Stack AI Engineering
 
-<p>
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,git,github,linux" />
+## Frontend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,tailwind"/>
 </p>
 
-### Working With
+## Backend
 
-* AWS
-* Google Cloud
-* Docker
-* Git
-* GitHub
-* Linux
-* REST APIs
-* CI/CD concepts
-* Cloud deployment
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask"/>
+</p>
+
+## Databases
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb"/>
+</p>
+
+---
+
+# ☁️ Cloud + DevOps
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,git,github,linux"/>
+</p>
+
+### Engineering Workflow
+
+```text
+Code
+ ↓
+Git
+ ↓
+GitHub
+ ↓
+Testing
+ ↓
+Docker
+ ↓
+Cloud
+ ↓
+Deployment
+ ↓
+Monitoring
+ ↓
+Iteration
+```
 
 ---
 
 # 🔐 Cybersecurity
 
-My cybersecurity learning focuses on developing secure software and understanding how systems can be protected.
+I'm also developing practical cybersecurity knowledge alongside AI engineering.
 
-### Areas of Interest
+### Focus Areas
 
 ```text
-Linux Security
-       ↓
+Linux
+  ↓
 Networking
-       ↓
+  ↓
 Web Security
-       ↓
+  ↓
 Authentication
-       ↓
+  ↓
 API Security
-       ↓
+  ↓
 Vulnerability Analysis
-       ↓
+  ↓
 Security Automation
-       ↓
+  ↓
 AI + Cybersecurity
 ```
 
-### Security Tools / Environment
+### Interests
 
-* Linux
-* Kali Linux
-* Git
-* SSH
-* Networking fundamentals
-* Python automation
-* Web security fundamentals
+* Linux security
+* Network fundamentals
+* Web security
+* API security
+* Authentication & authorization
+* Secure application development
+* Security automation
+* AI-assisted security
 
 ---
 
-# 🏗️ Featured Projects
+# 🚀 Featured Projects
 
-## 🧬 BioSence — AI-Powered Health Monitoring Platform
+## 🧬 BioSence
 
-A full-stack platform designed around continuous health monitoring and intelligent insights.
-
-### Current Stack
+### AI-Powered Health Monitoring Platform
 
 ```text
 React + TypeScript
-        ↓
-Tailwind CSS
-        ↓
-Supabase
-        ↓
-PostgreSQL
-        ↓
-Express
-        ↓
-AI Integration
+        │
+        ▼
+     Supabase
+        │
+        ▼
+   PostgreSQL
+        │
+        ▼
+    Express
+        │
+        ▼
+  AI Integration
 ```
 
-### Features
+### Current Features
 
 * Authentication
 * Google OAuth
 * Phone OTP
 * PostgreSQL
 * Secure storage
-* Emergency SOS workflow
+* SOS workflow
 * Email notifications
-* API integration
+* API integrations
 * AI-assisted insights
 
-### Future AI Layer
+### Planned Intelligence Layer
 
-* Wearable data ingestion
-* Signal preprocessing
-* Baseline generation
-* Trend analysis
-* Anomaly detection
-* Predictive health-risk patterns
-* RAG over approved medical/reference documents
-* LLM-based explanations
-
-> Goal: transform raw health signals into understandable, useful insights while keeping the system focused on monitoring and decision support rather than diagnosis.
+```text
+Wearable Data
+      ↓
+Signal Processing
+      ↓
+Baseline Generation
+      ↓
+Trend Analysis
+      ↓
+Anomaly Detection
+      ↓
+Predictive Risk Patterns
+      ↓
+RAG
+      ↓
+LLM Explanation
+```
 
 ---
 
 # 📈 AI Data Science Platform
 
-An automated data-science workflow designed to simplify the path from dataset to ML insights.
-
-### Pipeline
+An automated platform designed to simplify the journey from dataset to machine-learning insights.
 
 ```text
-Upload Dataset
-      ↓
-Data Validation
-      ↓
-Automatic EDA
-      ↓
-Visualization
-      ↓
-Feature Analysis
-      ↓
-Model Training
-      ↓
-Model Evaluation
-      ↓
-Insights
-      ↓
-Prediction
+              DATASET
+                 │
+                 ▼
+          Data Validation
+                 │
+                 ▼
+             Auto EDA
+                 │
+                 ▼
+           Visualization
+                 │
+                 ▼
+       Feature Engineering
+                 │
+                 ▼
+          Model Training
+                 │
+                 ▼
+           Evaluation
+                 │
+                 ▼
+          AI Insights
+                 │
+                 ▼
+             Prediction
 ```
 
-### Technologies
+### Stack
 
-* Python
-* Pandas
-* NumPy
-* Scikit-learn
-* Matplotlib
-* Streamlit
-* Machine Learning
+`Python` `Pandas` `NumPy` `Scikit-learn` `Matplotlib` `Streamlit`
 
 ---
 
-# 🧪 Machine Learning Projects
+# 🧪 Machine Learning Portfolio
 
-My ML work includes projects involving:
+### Projects & Experiments
 
-* Iris classification
-* Wine classification
-* House-price prediction
-* Customer behavior analysis
-* Computer vision
-* Vision Transformers
-* Regression
-* Classification
-* Model evaluation
+| Project                    | Area            | Technologies         |
+| -------------------------- | --------------- | -------------------- |
+| Iris Classification        | ML              | Python, Scikit-learn |
+| Wine Classification        | ML              | Random Forest        |
+| House Price Prediction     | Regression      | Python, ML           |
+| Customer Behavior Analysis | Data Science    | Pandas, ML           |
+| Cats vs Dogs               | Computer Vision | ViT                  |
+| PDF/TXT RAG                | GenAI           | Python, LLMs         |
+| AI APIs                    | AI Engineering  | Flask                |
+| Health Monitoring          | AI + Full Stack | React, Supabase      |
 
 ---
 
 # 🏆 Achievements
 
-🥇 **1st Prize — College Tech Day**
+<div align="center">
 
-💰 **₹10,000 Prize**
+| Achievement         | Result                         |
+| ------------------- | ------------------------------ |
+| 🥇 College Tech Day | **1st Prize**                  |
+| 💰 Prize            | **₹10,000**                    |
+| 💻 LeetCode         | **150+ Problems**              |
+| 🗃️ HackerRank      | **Advanced SQL**               |
+| 🎖️ Microsoft Learn | **25+ Badges / 2 Trophies**    |
+| 🤖 Internships      | **AI / ML / GenAI Experience** |
 
-💻 **150+ LeetCode Problems**
-
-🏅 **HackerRank Advanced SQL**
-
-🎖️ **Microsoft Learn Badges & Trophies**
-
-🤖 Multiple **AI/ML Internship Experiences**
-
-📚 Currently developing deeper expertise in:
-
-* AI Engineering
-* Generative AI
-* Machine Learning
-* Data Science
-* Cybersecurity
-* Cloud
-* Software Engineering
+</div>
 
 ---
 
-# 💼 Experience
+# 💼 AI / ML Experience
 
-### AI & ML Intern — Taras Systems and Solutions
+### AI & ML Engineering
 
-Worked on:
+Worked across projects involving:
 
-* Machine Learning applications
+* Machine Learning
 * Flask APIs
 * Regression
 * Random Forest
-* Joblib model serialization
-* LLM applications
+* Joblib
 * Transformers
-* U-Net
-* TXT/PDF RAG systems
-
-### Machine Learning Intern — Mindenious EduTech
-
-Worked with:
-
-* Supervised learning
-* Machine Learning models
-* Model evaluation
-* Predictive analytics
-
-### AI & ML Intern — RV TECHLEARN
-
-Worked with:
-
+* LLM applications
+* RAG
 * Computer Vision
 * Vision Transformers
-* Image classification
-* Cats vs Dogs classification
-
-### Data Science / AI & ML Experience
-
-Additional project exposure in:
-
-* Customer purchase behavior
-* Data analysis
-* Machine Learning
-* Generative AI
+* U-Net
+* Data Analysis
 
 ---
 
-# 📚 Current Learning Roadmap
+# 🧩 DSA Journey
 
 ```text
-                    AI ENGINEERING
-                         │
-        ┌────────────────┼────────────────┐
-        │                │                │
-   Machine Learning   GenAI/RAG      Software Engineering
-        │                │                │
-   Deep Learning      LLMs          APIs / Backend
-        │                │                │
-   Computer Vision    Agents        Databases
-        │                │                │
-        └────────────────┼────────────────┘
-                         │
-                       MLOps
-                         │
-                    Cloud / Docker
-                         │
-                  Production Systems
+                 PROBLEM
+                    │
+                    ▼
+               Understand
+                    │
+                    ▼
+               Brute Force
+                    │
+                    ▼
+              Find Pattern
+                    │
+        ┌───────────┼───────────┐
+        ▼           ▼           ▼
+     Hashing    Two Pointer   Sliding Window
+        │           │           │
+        └───────────┼───────────┘
+                    ▼
+             Optimize
+                    │
+                    ▼
+                 Code
+                    │
+                    ▼
+                Test
+                    │
+                    ▼
+                Analyze
 ```
 
-### Current Focus
+### Patterns
 
-* Advanced Python
-* SQL
-* Data Structures & Algorithms
-* Machine Learning
-* Deep Learning
-* Generative AI
-* RAG
-* AI Agents
-* MLOps
-* Cloud
-* Cybersecurity
-* System Design
+`Arrays` • `Hash Maps` • `Sets` • `Two Pointers` • `Sliding Window`
+
+`Stack` • `Queue` • `Binary Search` • `Prefix Sum`
+
+`Linked Lists` • `Trees` • `Graphs` • `Recursion` • `Dynamic Programming`
 
 ---
 
-# 🧩 Problem Solving
+# 📚 Learning Dashboard
 
-I actively practice algorithmic problem solving.
-
-### Patterns I'm Learning
+### 🔥 Now Learning
 
 ```text
-Arrays
- ↓
-Hash Maps / Sets
- ↓
-Two Pointers
- ↓
-Sliding Window
- ↓
-Stack / Queue
- ↓
-Binary Search
- ↓
-Prefix Sum
- ↓
-Linked Lists
- ↓
-Trees
- ↓
-Graphs
- ↓
-Dynamic Programming
+AI Engineering       ████████████████████░░  90%
+Machine Learning     ███████████████████░░░  85%
+Generative AI        ████████████████████░░  90%
+Python               ████████████████████░░  90%
+Data Science         ███████████████████░░░  85%
+DSA                  ████████████████░░░░░░  75%
+Cybersecurity        █████████████░░░░░░░░░  65%
+Cloud / MLOps        ████████████░░░░░░░░░░  60%
+System Design        █████████░░░░░░░░░░░░░  45%
 ```
 
-My goal isn't just to solve problems.
-
-> **I want to understand the pattern behind the solution.**
+*Progress indicators represent my current learning focus, not formal proficiency ratings.*
 
 ---
 
-# 🧰 Developer Environment
+# 🧑‍💻 My Development Environment
 
-```text
-OS              → Kali Linux
-Editor          → VS Code
-Terminal        → Zsh
-Python          → 3.11+
-Version Control → Git + GitHub
-Containers      → Docker
-Database        → MySQL / PostgreSQL / MongoDB
-Frontend        → React + TypeScript
-Backend         → Flask / Express
-AI              → PyTorch / TensorFlow / Hugging Face
+```bash
+$ neofetch
+
+OS           → Kali Linux
+Shell        → Zsh
+Editor       → VS Code
+Language     → Python 3.11+
+Git          → Git + GitHub
+Containers   → Docker
+Database     → MySQL / PostgreSQL / MongoDB
+Frontend     → React + TypeScript
+Backend      → Flask / Express
+AI           → PyTorch / TensorFlow
+GenAI        → Hugging Face / LLM APIs
+Cloud        → AWS / GCP
 ```
 
 ---
 
-# 📊 GitHub Activity
+# 🐍 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akashtcaa2005&show_icons=true&hide_border=true&count_private=true" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akashtcaa2005&hide_border=true" />
-</p>
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashtcaa2005&layout=compact&hide_border=true" />
 </p>
 
 ---
 
-# 🐍 Contribution Graph
+# 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=akashtcaa2005&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashtcaa2005&layout=compact&langs_count=10&hide_border=true"/>
+
 </p>
 
 ---
 
-# 🎯 My Engineering Philosophy
+# 🔥 GitHub Streak
 
-### Don't just learn technologies.
+<p align="center">
 
-### Understand systems.
+<img src="https://streak-stats.demolab.com?user=akashtcaa2005&hide_border=true"/>
 
-```text
-Learn
-  ↓
-Understand
-  ↓
-Build
-  ↓
-Break
-  ↓
-Debug
-  ↓
-Improve
-  ↓
-Deploy
-  ↓
-Measure
-  ↓
-Repeat
-```
-
-I believe strong engineers are built by **consistent problem solving, real projects, experimentation, and continuous learning**.
+</p>
 
 ---
 
-# 🌱 Long-Term Goal
-
-To become a strong **AI Engineer** capable of designing and building complete intelligent systems.
-
-My long-term focus:
+# 📈 Engineering Mindset
 
 ```text
-AI
-+
-Machine Learning
-+
-Generative AI
-+
-Software Engineering
-+
-Cloud
-+
-MLOps
-+
-Cybersecurity
-=
-Production AI Engineer
+                  ┌───────────────┐
+                  │    PROBLEM    │
+                  └───────┬───────┘
+                          ↓
+                  ┌───────────────┐
+                  │   RESEARCH    │
+                  └───────┬───────┘
+                          ↓
+                  ┌───────────────┐
+                  │    DESIGN     │
+                  └───────┬───────┘
+                          ↓
+                  ┌───────────────┐
+                  │     BUILD     │
+                  └───────┬───────┘
+                          ↓
+                  ┌───────────────┐
+                  │     TEST      │
+                  └───────┬───────┘
+                          ↓
+                  ┌───────────────┐
+                  │    DEPLOY     │
+                  └───────┬───────┘
+                          ↓
+                  ┌───────────────┐
+                  │    MONITOR    │
+                  └───────┬───────┘
+                          ↓
+                  ┌───────────────┐
+                  │    IMPROVE    │
+                  └───────────────┘
 ```
 
 ---
 
-# 🤝 Let's Connect
+# 🎯 2026 → 2027 Roadmap
+
+```text
+2026
+ │
+ ├── Advanced Python
+ ├── Machine Learning
+ ├── Deep Learning
+ ├── Generative AI
+ ├── RAG
+ ├── AI Agents
+ ├── DSA
+ └── Cybersecurity
+        │
+        ▼
+2027
+ │
+ ├── Production AI
+ ├── MLOps
+ ├── Cloud Architecture
+ ├── System Design
+ ├── AI Infrastructure
+ └── Large-Scale AI Applications
+        │
+        ▼
+   AI ENGINEER
+```
+
+---
+
+# 🌟 What I Want to Build
+
+I want to build AI systems that are:
+
+```text
+Fast
+ │
+ ├── Reliable
+ │
+ ├── Explainable
+ │
+ ├── Secure
+ │
+ ├── Scalable
+ │
+ └── Useful
+```
+
+Not just demos.
+
+**Real applications. Real users. Real engineering.**
+
+---
+
+# 📫 Connect With Me
 
 <p align="center">
 
@@ -663,8 +706,14 @@ Production AI Engineer
 
 <p align="center">
 
-### 🚀 Building. Learning. Experimenting. Improving.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer&animation=fadeIn"/>
 
-**AI • ML • GenAI • Data • Cybersecurity • Software Engineering**
+</p>
+
+<p align="center">
+
+### ⚡ Learn. Build. Break. Fix. Deploy. Repeat.
+
+**AI • Machine Learning • Generative AI • Data Science • Cybersecurity**
 
 </p>
