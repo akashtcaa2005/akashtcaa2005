@@ -1,6 +1,12 @@
 <div align="center">
+  <a href="./ocean.svg" target="_blank" rel="noopener noreferrer">
+    <img src="./ocean.svg" alt="Ocean banner with animated fish, jellyfish and bubbles - dive in let's build together" width="900" />
+  </a>
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=AKASH%20T.&fontSize=60&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=AI%20%7C%20ML%20%7C%20GenAI%20%7C%20Bug%20Bounty%20Security&descAlignY=58&descSize=18"/>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=AKASH%20T.&fontSize=60&fontColor=ffffff&fontAlignY=35&animation=fadeIn" width="100%"/>
 
 <a href="https://github.com/akashtcaa2005">
   <img src="https://komarev.com/ghpvc/?username=akashtcaa2005&label=PROFILE%20VIEWS&color=00d9ff&style=for-the-badge"/>
@@ -12,7 +18,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2400&pause=700&color=00D9FF&center=true&vCenter=true&width=920&lines=AI+%26+Machine+Learning+Engineer;GenAI+%7C+LLMs+%7C+RAG+%7C+Autonomous+Agents;Offensive+Web+Security+%7C+Bug+Bounty+Hunter;Full-Stack+AI+Application+Developer;Turning+Ideas+Into+Production-Ready+Systems"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2400&pause=700&color=00D9FF&center=true&vCenter=true&width=920&lines=AI+%26+Machine+Learning+Engineer;GenAI+%7C+RAG+%7C+Agents;Offensive+Security+Researcher;Learn+%E2%86%92+Build+%E2%86%92+Break+%E2%86%92+Ship" width="920" height="90"/>
 
 </div>
 
@@ -623,16 +629,16 @@ AGI-ORIENTED RESEARCH
 
 
 Building in public · MD
-<!-- ═══════════ 🐍 BUILDING IN PUBLIC — paste this block into your README ═══════════ --> <div align="center"> <!-- twinkling animated banner --> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9d,50:00d9ff,100:7b2ff7&height=170&section=header&text=%F0%9F%90%8D%20building%20in%20public&fontSize=46&fontColor=ffffff&fontAlignY=42&animation=twinkling&desc=every%20commit%20is%20a%20receipt&descSize=16&descAlignY=64" width="100%" alt="building in public"/> <!-- typing terminal --> <a href="https://github.com/akashtcaa2005"> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=700&color=00FF9D&center=true&vCenter=true&width=760&height=45&lines=%24+git+log+--oneline+--graph+--all;%24+commit+early.+commit+often.+commit+messy.;%24+shipping+code+%E2%86%92+hunting+bugs+%E2%86%92+repeat;%24+streak+status%3A+%F0%9F%94%A5+do+not+break+the+chain" alt="typing"/> </a>
+<!-- ═══════════ 🐍 BUILDING IN PUBLIC — paste this block into your README ═══════════ --> <div align="center"> <!-- twinkling animated banner --> [...]
 <br/><br/>
 
-<!-- animated pulse divider --> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/> </div> <br/> <!-- ═══════════ LIVE SCOREBOARD ═══════════ --> <div align="center">
+<!-- animated pulse divider --> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/> </div> <br/> <!-- ═[...]
 ⚡ Live Scoreboard
-<a href="https://github.com/akashtcaa2005"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=akashtcaa2005&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=radical&rank_icon=github&cache_seconds=14400"> <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=akashtcaa2005&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=default&title_color=0969da&icon_color=1a7f37&rank_icon=github&cache_seconds=14400"> <img src="https://github-readme-stats.vercel.app/api?username=akashtcaa2005&show_icons=true&hide_border=true&theme=radical" width="49%" alt="GitHub stats"/> </picture> </a> <a href="https://github.com/akashtcaa2005"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=akashtcaa2005&layout=donut-vertical&langs_count=8&hide_border=true&theme=radical&cache_seconds=14400"> <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=akashtcaa2005&layout=donut-vertical&langs_count=8&hide_border=true&theme=default&title_color=0969da&cache_seconds=14400"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashtcaa2005&layout=donut-vertical&hide_border=true&theme=radical" width="49%" alt="Top languages"/> </picture> </a> <br/> <!-- streak with animated fire ring --> <a href="https://github.com/akashtcaa2005"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=akashtcaa2005&hide_border=true&theme=radical&stroke=00d9ff&ring=00ff9d&fire=ff6b35&currStreakLabel=00ff9d&date_format=j%20M%5B%20Y%5D"> <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=akashtcaa2005&hide_border=true&theme=default&ring=0969da&fire=ff6b35&currStreakLabel=0969da&date_format=j%20M%5B%20Y%5D"> <img src="https://streak-stats.demolab.com?user=akashtcaa2005&hide_border=true&theme=radical&ring=00ff9d&fire=ff6b35" width="75%" alt="GitHub streak"/> </picture> </a> </div> <br/> <!-- ═══════════ CONTRIBUTION PULSE ═══════════ --> <div align="center">
+<a href="https://github.com/akashtcaa2005"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=akashtcaa2005&show_icons=true&includ[...]
 📈 Contribution Pulse
-<picture> <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=akashtcaa2005&theme=react-dark&bg_color=00000000&color=00d9ff&line=00ff9d&point=ffffff&area=true&area_color=00d9ff&hide_border=true&custom_title=Commit%20Heartbeat"> <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=akashtcaa2005&bg_color=ffffff&color=0969da&line=1a7f37&point=24292f&area=true&area_color=0969da&hide_border=true&custom_title=Commit%20Heartbeat"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=akashtcaa2005&theme=react-dark&hide_border=true&area=true" width="100%" alt="activity graph"/> </picture> </div> <br/> <!-- ═══════════ SNAKE ═══════════ --> <div align="center">
+<picture> <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=akashtcaa2005&theme=react-dark&bg_color=00000000&color=00d9ff&line=00[...]
 🐍 The Snake Is Hungry
-<picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akashtcaa2005/akashtcaa2005/output/github-snake-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akashtcaa2005/akashtcaa2005/output/github-snake.svg"> <img alt="snake eating contributions" src="https://raw.githubusercontent.com/akashtcaa2005/akashtcaa2005/output/github-snake-dark.svg" width="100%"> </picture> </div> <br/> <!-- ═══════════ TROPHIES + FOOTER ═══════════ --> <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=akashtcaa2005&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" alt="trophies"/> <br/> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b2ff7,50:00d9ff,100:00ff9d&height=100&section=footer&animation=twinkling" width="100%" alt="footer"/> </div>
+<picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akashtcaa2005/akashtcaa2005/output/github-snake-dark.svg"> <source media="(prefers-color-scheme: l[...]
 
 
 ---
@@ -732,4 +738,3 @@ Building in public · MD
 ### ⚡ `Learn → Build → Evaluate → Research → Discover`
 
 </div>
-
