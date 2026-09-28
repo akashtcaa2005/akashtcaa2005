@@ -621,32 +621,106 @@ AGI-ORIENTED RESEARCH
 
 ---
 
-# 🐍 building in public
+<!-- ═══════════ 🐍 BUILDING IN PUBLIC — paste this block into your README ═══════════ -->
 
 <div align="center">
 
+<!-- twinkling animated banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9d,50:00d9ff,100:7b2ff7&height=170&section=header&text=%F0%9F%90%8D%20building%20in%20public&fontSize=46&fontColor=ffffff&fontAlignY=42&animation=twinkling&desc=every%20commit%20is%20a%20receipt&descSize=16&descAlignY=64" width="100%" alt="building in public"/>
+
+<!-- typing terminal -->
 <a href="https://github.com/akashtcaa2005">
-
-<img src="https://github-readme-stats.vercel.app/api?username=akashtcaa2005&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&bg_color=0a0e14&title_color=00d9ff&icon_color=00ff9d&text_color=c9d1d9" width="49%" alt="GitHub statistics"/>
-
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=700&color=00FF9D&center=true&vCenter=true&width=760&height=45&lines=%24+git+log+--oneline+--graph+--all;%24+commit+early.+commit+often.+commit+messy.;%24+shipping+code+%E2%86%92+hunting+bugs+%E2%86%92+repeat;%24+streak+status%3A+%F0%9F%94%A5+do+not+break+the+chain" alt="typing"/>
 </a>
 
+<br/><br/>
+
+<!-- animated pulse divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
+
+</div>
+
+<br/>
+
+<!-- ═══════════ LIVE SCOREBOARD ═══════════ -->
+
+<div align="center">
+
+### ⚡ Live Scoreboard
+
 <a href="https://github.com/akashtcaa2005">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashtcaa2005&layout=compact&langs_count=10&hide_border=true&bg_color=0a0e14&title_color=00d9ff&text_color=c9d1d9" width="49%" alt="Top languages"/>
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=akashtcaa2005&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=radical&rank_icon=github&cache_seconds=14400">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=akashtcaa2005&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=default&title_color=0969da&icon_color=1a7f37&rank_icon=github&cache_seconds=14400">
+    <img src="https://github-readme-stats.vercel.app/api?username=akashtcaa2005&show_icons=true&hide_border=true&theme=radical" width="49%" alt="GitHub stats"/>
+  </picture>
+</a>
+<a href="https://github.com/akashtcaa2005">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=akashtcaa2005&layout=donut-vertical&langs_count=8&hide_border=true&theme=radical&cache_seconds=14400">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=akashtcaa2005&layout=donut-vertical&langs_count=8&hide_border=true&theme=default&title_color=0969da&cache_seconds=14400">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashtcaa2005&layout=donut-vertical&hide_border=true&theme=radical" width="49%" alt="Top languages"/>
+  </picture>
 </a>
 
-<br><br>
+<br/>
 
+<!-- streak with animated fire ring -->
 <a href="https://github.com/akashtcaa2005">
-
-<img src="https://streak-stats.demolab.com?user=akashtcaa2005&hide_border=true&background=0a0e14&ring=00d9ff&fire=00ff9d&currStreakLabel=00d9ff" width="70%" alt="GitHub streak"/>
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=akashtcaa2005&hide_border=true&theme=radical&stroke=00d9ff&ring=00ff9d&fire=ff6b35&currStreakLabel=00ff9d&date_format=j%20M%5B%20Y%5D">
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=akashtcaa2005&hide_border=true&theme=default&ring=0969da&fire=ff6b35&currStreakLabel=0969da&date_format=j%20M%5B%20Y%5D">
+    <img src="https://streak-stats.demolab.com?user=akashtcaa2005&hide_border=true&theme=radical&ring=00ff9d&fire=ff6b35" width="75%" alt="GitHub streak"/>
+  </picture>
 </a>
 
 </div>
 
+<br/>
+
+<!-- ═══════════ CONTRIBUTION PULSE ═══════════ -->
+
+<div align="center">
+
+### 📈 Contribution Pulse
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=akashtcaa2005&theme=react-dark&bg_color=00000000&color=00d9ff&line=00ff9d&point=ffffff&area=true&area_color=00d9ff&hide_border=true&custom_title=Commit%20Heartbeat">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=akashtcaa2005&bg_color=ffffff&color=0969da&line=1a7f37&point=24292f&area=true&area_color=0969da&hide_border=true&custom_title=Commit%20Heartbeat">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akashtcaa2005&theme=react-dark&hide_border=true&area=true" width="100%" alt="activity graph"/>
+</picture>
+
+</div>
+
+<br/>
+
+<!-- ═══════════ SNAKE ═══════════ -->
+
+<div align="center">
+
+### 🐍 The Snake Is Hungry
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akashtcaa2005/akashtcaa2005/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akashtcaa2005/akashtcaa2005/output/github-snake.svg">
+  <img alt="snake eating contributions" src="https://raw.githubusercontent.com/akashtcaa2005/akashtcaa2005/output/github-snake-dark.svg" width="100%">
+</picture>
+
+</div>
+
+<br/>
+
+<!-- ═══════════ TROPHIES + FOOTER ═══════════ -->
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=akashtcaa2005&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" alt="trophies"/>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b2ff7,50:00d9ff,100:00ff9d&height=100&section=footer&animation=twinkling" width="100%" alt="footer"/>
+
+</div>
 ---
 
 # 🌌 long-term vision
