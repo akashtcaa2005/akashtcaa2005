@@ -14,14 +14,21 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2400&pause=700&color=00D9FF&center=true&vCenter=true&width=920&lines=AI+%26+Machine+Learning+Engineer;GenAI+%7C+LLMs+%7C+RAG+%7C+Autonomous+Agents;Offensive+Web+Security+%7C+Bug+Bounty+Hunter;Full-Stack+AI+Application+Developer;Turning+Ideas+Into+Production-Ready+Systems"/>
 
-<br/><br/>
+<br/>
 
-**🌐 Live:** [akash-t-portfolio.netlify.app](https://akash-t-portfolio.netlify.app/)
+<a href="https://akash-t-portfolio.netlify.app/">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3200&pause=1000&color=00FF9D&center=true&vCenter=true&width=640&height=36&lines=%24+curl+-I+akash-t-portfolio.netlify.app;HTTP%2F2+200+OK+%E2%9C%85;Portfolio+is+LIVE+%E2%86%92+click+below"/>
+</a>
+
+<br/>
+
+<a href="https://akash-t-portfolio.netlify.app/">
+  <img src="./assets/live-btn.svg" alt="Live Portfolio" width="440"/>
+</a>
 
 </div>
 
 ---
-
 ## 🧑‍💻 whoami
 
 <table>
