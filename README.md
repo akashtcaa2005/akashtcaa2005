@@ -1,13 +1,13 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=AKASH%20T.&fontSize=60&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=AI%20%7C%20ML%20%7C%20GenAI%20%7C%20Bug%20Bounty%20Security&descAlignY=58&descSize=18"/>
   <a href="https://akash-t-portfolio.netlify.app/">
-    <img alt="Portfolio Live" src="https://img.shields.io/badge/PORTFOLIO-LIVE-00d9ff?style=for-the-badge&logo=netlify&logoColor=white"/>
+    <img alt="Portfolio Live" src="https://img.shields.io/badge/PORTFOLIO-LIVE-00d9ff?style=for-the-badge&logo=googlechrome&logoColor=white"/>
   </a>
   <a href="https://github.com/akashtcaa2005">
     <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=akashtcaa2005&label=PROFILE%20VIEWS&color=00d9ff&style=for-the-badge"/>
   </a>
   <a href="https://github.com/akashtcaa2005?tab=followers">
-    <img alt="Followers" src="https://img.shields.io/github/followers/akashtcaa2005?style=for-the-badge&logo=github&label=FOLLOWERS&color=00ff9d&cacheSeconds=3600"/>
+    <img alt="Followers" src="https://img.shields.io/badge/FOLLOW-akashtcaa2005-00ff9d?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <img alt="Status Shipping" src="https://img.shields.io/badge/status-shipping-black?style=for-the-badge&logo=vercel"/>
   <br/><br/>
