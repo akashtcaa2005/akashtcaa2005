@@ -14,6 +14,10 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2400&pause=700&color=00D9FF&center=true&vCenter=true&width=920&lines=AI+%26+Machine+Learning+Engineer;GenAI+%7C+LLMs+%7C+RAG+%7C+Autonomous+Agents;Offensive+Web+Security+%7C+Bug+Bounty+Hunter;Full-Stack+AI+Application+Developer;Turning+Ideas+Into+Production-Ready+Systems"/>
 
+<br/><br/>
+
+**🌐 Live:** [akash-t-portfolio.netlify.app](https://akash-t-portfolio.netlify.app/)
+
 </div>
 
 ---
